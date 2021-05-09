@@ -43,8 +43,8 @@ a[href]:not(:hover) {
 }
 
 img {
-	max-width: 100%;
-	height: 100%;
+	width: auto;
+	height: auto;
 }
 
         /* Media Query for Mobile Devices */
