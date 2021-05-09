@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: 
+title:
 metaDescription: Blog page listing various posts.
 date: 2017-01-01
 permalink: /
