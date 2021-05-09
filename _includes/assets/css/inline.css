@@ -49,9 +49,8 @@ img {
 header,
 main,
 footer {
-	padding: 1em;
+	padding: 1em;  padding-left: 17em;
 }
-left-padding: 17em;
 
 main {
 	padding-bottom: 2em;
