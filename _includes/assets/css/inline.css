@@ -27,6 +27,10 @@ main {
 	max-width: 69.5em;
 }
 
+footer   {
+    	color: var(--primary);
+  }
+
 p,
 pre,
 code {
