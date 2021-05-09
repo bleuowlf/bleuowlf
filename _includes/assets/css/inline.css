@@ -43,15 +43,27 @@ a[href]:not(:hover) {
 }
 
 img {
-	max-width: 100%;
+	max-width: 69.5em;
 	height: auto;
 }
 
-header,
-main,
-footer {
-	padding: 1em;  padding-left: 17em;
+
+@media only screen and (max-width: 950px) {
+	header,
+	main,
+	footer {
+		padding: 1em;  padding-left: 17em;
+	}
 }
+
+@media only screen and (max-width: 600px) {
+	header,
+	main,
+	footer {
+		padding: 1em;
+	}
+}
+
 
 main {
 	padding-bottom: 2em;
