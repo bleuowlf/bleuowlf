@@ -13,6 +13,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-size: 20px
 }
 
 body {
@@ -62,7 +63,7 @@ main > article :first-child {
 }
 
 pre {
-	font-size: 20px;
+	font-size: 14px;
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
