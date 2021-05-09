@@ -79,16 +79,7 @@ img {
         }
 
         /* Media Query for Laptops and Desktops */
-        @media (min-width: 1025px) and (max-width: 1280px){
-					header,
-					main,
-					footer {
-						padding: 1em;  padding-left: 17em;
-					}
-        }
-
-        /* Media Query for Large screens */
-        @media (min-width: 1281px) {
+        @media (min-width: 1025px) {
 					header,
 					main,
 					footer {
@@ -97,10 +88,6 @@ img {
         }
     </style>
 
-
-main {
-	padding-bottom: 2em;
-}
 
 main :first-child,
 main > article :first-child {
