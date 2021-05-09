@@ -1,7 +1,7 @@
 ---
 layout: layouts/etc.njk
 title: Etc
-date: 2016-01-01T00:00:00.000Z
+date: 2021-05-09T00:00:00.000Z
 permalink: /etc/index.html
 eleventyNavigation:
   key: etc

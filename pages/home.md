@@ -1,8 +1,8 @@
 ---
 layout: layouts/home.njk
 title:
-metaDescription: Home page listing various posts.
-date: 2017-01-01
+metaDescription: Home page listing the blog posts.
+date: 2021-05-09
 permalink: /
 eleventyNavigation:
   key: home
