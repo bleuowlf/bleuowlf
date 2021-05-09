@@ -74,7 +74,7 @@ img {
 					header,
 					main,
 					footer {
-						padding: 1em;  padding-left: 17em;
+						padding: 1em;
 					}
         }
 
@@ -83,7 +83,7 @@ img {
 					header,
 					main,
 					footer {
-						padding: 1em;  padding-left: 17em;
+						padding-left: 17em;
 					}
         }
     </style>
