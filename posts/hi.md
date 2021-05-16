@@ -9,6 +9,7 @@ tags:
   - blogging
   - love
   - firstpost
+  - photography
 ---
 Dear readers. Welcome to my blog — bleuowlf. To start, here are the absolutely stunning Buran flowers (Rhododendron) blooming in Uttarakhand. :)
 
