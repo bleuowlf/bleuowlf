@@ -1,13 +1,13 @@
 ---
 title: Hi
 metaDescription: Hi
-date: 2021-05-15T00:00:00.000Z
+date: 2021-05-17T01:08:00.000Z
 author: Bleuowlf
-summary: Hi, welcome to
+image: /images/buran_flowers.jpg
+summary: Dear readers. Welcome to my blog — bleuowlf. To start, here are the absolutely stunning Buran flowers (Rhododendron) blooming in Uttarakhand. :)
 tags:
   - blogging
   - love
   - firstpost
 ---
-Hi, welcome to my blog — bleuowlf. Here are the absolutely stunning Buran flowers (Rhododendron) in Uttarakhand.
-/images/buran_flowers.jpg
+Dear readers. Welcome to my blog — bleuowlf. To start, here are the absolutely stunning Buran flowers (Rhododendron) blooming in Uttarakhand. :)
