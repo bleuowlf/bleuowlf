@@ -47,8 +47,8 @@ a[href]:not(:hover) {
 }
 
 img {
-	width: auto;
-	height: auto;
+	width: 100%;
+	height: 100%;
 }
 
         /* Media Query for Mobile Devices */
